@@ -88,6 +88,9 @@ body{
     background-size:auto 800px;
     height: 800px;
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 .header-content {
 }
